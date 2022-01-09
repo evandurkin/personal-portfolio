@@ -16,6 +16,7 @@ class Header extends HTMLElement
                 <a href="projects.html">Projects</a>
                 <a href="database.html">Database Diagrams</a>
                 <a href="api-unit-tests.html">API Unit Tests</a>
+                <a href="devOpsPresentations.html">DevOps Presentations</a>
                 <a href="resume.html">Resume</a>
                 <a href="about.html">About</a>
             </div>`

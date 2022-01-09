@@ -12,6 +12,7 @@ class Footer extends HTMLElement
         // <a href="./index.html"><img src="./logo/durkin-logo-index.png" alt="" class="logo" style="margin-top: 16px;"></a>
             `<ul>
                 <li><p style="font-weight:bold; margin-bottom:10px;">Links</p></li>
+                <li><a href="about.html">About</a></li>
                 <li><a href="https://github.com/evandurkin">GitHub</a></li>
                 <li><a href="https://www.bellevue.edu/degrees/bachelor/web-development-bs/">BU Web Dev Degree</a></li>
                 <li><a href="https://www.youtube.com/user/bellevueuniversity">BU YouTube</a></li>

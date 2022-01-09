@@ -66,6 +66,11 @@ h3 {
   letter-spacing: 1px;
 }
 
+.myName {
+  color: white;
+  margin-left: 15px;
+}
+
 .card-title {
   font-size: 16pt;
   font-weight: bold;
@@ -132,6 +137,10 @@ h3 {
 }
 .view-test:hover {
   color: #f28241;
+}
+
+.devops-link {
+  color: #ff6666;
 }
 
 a {
